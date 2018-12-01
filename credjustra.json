@@ -1,0 +1,16 @@
+{
+    "imagens": [
+        "/images/credjustra/01.jpg",
+        "/images/credjustra/02.jpg",
+        "/images/credjustra/03.jpg",
+        "/images/credjustra/04.gif",
+        "/images/credjustra/05-credjustra-mobile.gif"
+         ],
+    "titulo": "Landing Page para consórcio imobiliário",
+    "descricao": "Página de divulgação do consórcio imobiliário com enganjamento nas redes sociais.",
+    "servicos": [
+        "1 - Desenvolvimento de layout resposivo",
+        "2 - Implementação de links e meta-tags para redes sociais como whatsapp e facebook",
+        "3 - Desenvolvimento de método de envio de formulário por email com alta taxa de aceitação."
+    ]
+}

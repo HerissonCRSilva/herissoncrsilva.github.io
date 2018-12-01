@@ -87,3 +87,8 @@ box-shadow: -5px 7px 13px -8px rgba(0,0,0,0.75);
 .contatos > a{
     margin: 0 auto;
 }
+
+#contPortifolio img{
+    max-height: 189px;;
+    overflow: hidden;
+}

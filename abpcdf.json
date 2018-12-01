@@ -1,0 +1,18 @@
+{
+    "imagens": [
+        "/images/abpcdf/01-login.JPG",
+        "/images/abpcdf/02.JPG",
+        "/images/abpcdf/03.JPG",
+        "/images/abpcdf/04.JPG",
+        "/images/abpcdf/05.JPG",
+        "/images/abpcdf/06.JPG",
+        "/images/abpcdf/07.JPG"
+         ],
+    "titulo": "Sistema de Gerenciamento Associativo",
+    "descricao": "Sistema de controle de associados contendo os dados pessoais, o controle de pagamentos, a emissão de carteirinhas e o livro de caixa da entidade.",
+    "servicos": [
+        "1 - Mapeamento de processos",
+        "2 - Levantamento de Requisitos",
+        "3 - Desenvolvimento do Sistema"
+    ]
+}

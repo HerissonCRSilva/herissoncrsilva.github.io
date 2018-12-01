@@ -1,0 +1,17 @@
+{
+    "imagens": [
+        "/images/lmp/01-home.JPG",
+        "/images/lmp/02-home.JPG",
+        "/images/lmp/03-admin.JPG",
+        "/images/lmp/03-home.JPG",
+        "/images/lmp/lmpCoaching.gif"
+         ],
+    "titulo": "Landing Page & sistema de inscrições para evento",
+    "descricao": "Página para divulgação e inscrição em evento, com controle de inscrições e pagamentos via PagSeguro.",
+    "servicos": [
+        "1 - Desenvolvimento de layout resposivo",
+        "2 - Implementação de links e meta-tags para redes sociais como whatsapp e facebook",
+        "3 - Integração com o PagSeguro",
+        "4 - Gestor de inscrições"
+    ]
+}

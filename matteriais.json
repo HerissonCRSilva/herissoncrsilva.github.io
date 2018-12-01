@@ -1,0 +1,17 @@
+{
+    "imagens": [
+        "/images/matteriais/01.gif",
+        "/images/matteriais/02.gif",
+        "/images/matteriais/03.gif",
+        "/images/matteriais/04.gif",
+        "/images/matteriais/05.JPG"
+         ],
+    "titulo": "Matteriais.com.br",
+    "descricao": "CRM, ERP e Loja Virtual para comércio de materiais escolares e de escritório.",
+    "servicos": [
+        "1 - Documentação do sistema: Levantamento de requisitos e regras de negócio",
+        "2 - Gerenciamento do projeto",
+        "3 - Integrações com WebServices e API’s para soluções de pagamento, emissão e controle de NF-e’s",
+        "4 - Gestão de infra-estrutura e banco de dados"
+    ]
+}
